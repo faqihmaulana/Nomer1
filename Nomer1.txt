@@ -1,0 +1,6 @@
+Jawaban No 1. Greedy Algorithm Adalah Algoritma yang bersifat heuristik dan urutan logisnya bersusun berdsarkan langkah langkah peneyelesaian masalah yang di susun secara sistematis.
+Contoh : Strategi greedy: 1.Pada setiap langkah, pilih koin dengan nilai  terbesar dari himpunan koin yang tersisa.
+2.Agar pemilihan koin berikutnya optimal, maka perlu mengurutkan himpunan koin dalam urutan yang menurun (noninceasing order). 
+3.Jika himpunan koin sudah terurut menurun, maka kompleksitas algoritma greedy = O(n).
+4.Sayangnya, algoritma greedy untuk masalah penukaran uang ini tidak selalu menghasilkan   solusi optimal (lihat contoh sebelumnya).  
+Contoh  Implementasi Dalam Kehidupan Sehari hari yaitu Gogle maps/gps yang bisa di pakai untuk kehidupan.
